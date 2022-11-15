@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas Goldberg</h1>
 <h3 align="center">Blockchain / Web3 devotee, aspiring web3 developer.</h3>
 
-- 🔭 I’m currently expanding my **Solidity, React, TypeScript** knowledge!
-
-- 👯 I’m looking to work as a **Web3 Developer**
+- 🔭 Entrepreneur | Developer | Strategist | Solidity, TypeScript | Blockchain & Web3 Devotee
 
 - 📫 How to reach me **jonas.a.goldberg@gmail.com**
 
