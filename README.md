@@ -5,7 +5,7 @@
 
 - A passionate self-taught entrepreneur & developer
 - Currently studying advanced programming & looking for new challenges 🤞
-- Personal website link [my resume](https://jonasgoldberg.dk)
+- Personal [website](https://jonasgoldberg.dk)
 - Spare time goes to my family ❤️
 - 📫 How to reach me **jonas.a.goldberg@gmail.com**
 
