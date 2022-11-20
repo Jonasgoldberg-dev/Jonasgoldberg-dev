@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasgoldberg-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jonasgoldberg-dev" /> </p>
 
+- A passionate self-taught entrepreneur & developer
+- Currently studying advanced programming & looking for new challenges 🤞
+- Personal website link [my resume](https://jonasgoldberg.dk)
+- Spare time goes to my family ❤️
 - 📫 How to reach me **jonas.a.goldberg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
